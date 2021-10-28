@@ -1,6 +1,6 @@
 # FlowReshaper
 
-This is an hardware image-reshaping unit designed by verilog and simulated based on Vivado.The design adopts dataflow calculation architecture and is implemented through a  7-stage pipeline structure.
+This is a hardware image-reshaping unit designed by verilog and simulated based on Vivado.The design adopts dataflow calculation architecture and is implemented through a  7-stage pipeline structure.
 
 Click [here](https://zhuanlan.zhihu.com/p/425191429) to view a more concrete introduction of the design. 
 
